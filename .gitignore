@@ -16,7 +16,7 @@ credit-risk-intelligence-engine.ipynb
 fairness_metrics*.csv
 fairness_thresholds*.json
 model_performance_summary*.csv
-app.py
+
 lime_mlp_high_risk_explanation*.html
 scoring.py
 xgboost_credit_model.pkl
