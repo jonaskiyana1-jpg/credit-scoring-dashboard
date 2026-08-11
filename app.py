@@ -347,7 +347,8 @@ for feature in feature_columns:
 predict_button = st.sidebar.button(
     "🔍 Évaluer le risque",
     type="primary",
-    use_container_width=True
+    #use_container_width=True
+    width="stretch"
 )
 
 
